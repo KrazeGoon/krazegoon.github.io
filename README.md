@@ -13,4 +13,9 @@
          <param name="bgcolor" value="#000000">
       </object>
    </body>
+   # Download latest game client
+https://github.com/LoESoft-Games/LoE-Realm/releases
+
+## Discord Status (click bellow to join)
+[![Join Us!](https://discordapp.com/api/guilds/345060662260531202/embed.png)](https://discord.gg/jHNTjun)
 
