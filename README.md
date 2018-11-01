@@ -1,1 +1,0 @@
-<object type="application/x-shockwave-flash" data="client-release.swf" width="100%" height="720" style="visibility: visible;"><param name="wmode" value="direct"> <param name="quality" value="high"> <param name="bgcolor" value="#000000"> <param name="SCALE" value="exactfit"> SCALE="exactfit" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>
