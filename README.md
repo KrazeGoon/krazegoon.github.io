@@ -1,1 +1,1 @@
-<object type="application/x-shockwave-flash" data="client-release.swf" width="100%" height="100%" style="visibility: visible;"><param name="wmode" value="direct"> <param name="quality" value="high"> <param name="bgcolor" value="#000000"></object>
+<object type="application/x-shockwave-flash" data="client-release.swf" width="750" height="750" style="visibility: visible;"><param name="wmode" value="direct"> <param name="quality" value="high"> <param name="bgcolor" value="#000000"></object>
