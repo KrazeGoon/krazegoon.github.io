@@ -1,37 +1,30 @@
-# AppEngine (read-only) Repository for remote data (https://loesoft-games.github.io/)
 
-This is a LoESoft library for webserver as read-only for all game clients / features. You can redirect your game client to read our music tracks used in our projects or assets like packages, minigames or any other feature included here without restriction.
+<html lang="en">
+   <head>
+      <title>LoE Realm</title>
+      <link rel="icon" type="image/png" href="/loesoft.ico">
+      <style type="text/css">
+         html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; }
+      </style>
+	  <body>
 
-# Report Game Issues
-https://github.com/LoESoft-Games/LoE-Realm/issues
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
-# Download latest game client
-https://github.com/LoESoft-Games/LoE-Realm/releases
+</body>
+<body>
 
-## Discord Status (click bellow to join)
-[![Join Us!](https://discordapp.com/api/guilds/345060662260531202/embed.png)](https://discord.gg/jHNTjun)
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
-## Game Sources
-- https://github.com/LoESoft-Games
+</body>
+<body>
 
-## Change this repository to yours (video tutorial)
-https://youtu.be/QvgpZk8gBcY
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
-## Special thanks
-- GhostMaree;
-- Devwarlt;
-- SecretRealmMan;
-- Sebafra;
-- Slendergo;
-- Nilly;
-- MrSlicker;
-- BurgerMX;
-- Mike;
-- Miniguy;
-- NR-CORE Team;
-- FSoD Team.
-
-
+</body>
+   <body>
       <object type="application/x-shockwave-flash" data="client-release.swf" width="1200" height="1000" style="visibility: visible;">
          <param name="wmode" value="direct">
          <param name="quality" value="high">
