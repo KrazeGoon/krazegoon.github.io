@@ -1,6 +1,6 @@
 
+<html>
 <html lang="en">
-<div style="overflow-y: scroll; height:1500px;">
    <head>
       <title>LoE Realm</title>
       <link rel="icon" type="image/png" href="/loesoft.ico">
@@ -8,22 +8,6 @@
          html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; }
       </style>
 	  <body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
 </body>
    <body>
       <object type="application/x-shockwave-flash" data="client-release.swf" width="1200" height="1000" style="visibility: visible;">
@@ -32,5 +16,5 @@
          <param name="bgcolor" value="#000000">
       </object>
    </body>
-
+</html>
 
