@@ -31,14 +31,7 @@ https://youtu.be/QvgpZk8gBcY
 - NR-CORE Team;
 - FSoD Team.
 
-<html lang="en">
-   <head>
-      <title>LoE Realm</title>
-      <link rel="icon" type="image/png" href="/loesoft.ico">
-      <style type="text/css">
-         html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; }
-      </style>
-   <body>
+
       <object type="application/x-shockwave-flash" data="client-release.swf" width="1200" height="1000" style="visibility: visible;">
          <param name="wmode" value="direct">
          <param name="quality" value="high">
